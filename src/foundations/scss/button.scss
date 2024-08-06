@@ -1,0 +1,5 @@
+@layer components {
+    .btn {
+        @apply bg-rose-300 flex items-center justify-center outline-0 border-0 rounded-md px-4 transition duration-300;
+    }
+}

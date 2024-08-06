@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "compilerOptions":{
+    "paths": {
+      "@pdcfe/foundation": ["./foundations/*"]
+    },
+  },
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
